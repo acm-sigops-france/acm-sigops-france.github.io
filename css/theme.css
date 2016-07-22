@@ -12,11 +12,11 @@ body {
 }
 
 .footer a {
-    color: #ee4444;
+    color: #93BE4A;
 }
 
 .sidebar h1 {
-    color: #ee4444;
+    color: #93BE4A;
     font-size: 1.3em;
 }
 
@@ -38,14 +38,19 @@ body {
 }
 
 .well h1 {
-    color: #ee4444;
+    color: #93BE4A;
     font-size: 1.3em;
 }
 
+.well h2 {
+    color: #93BE4A;
+    font-size: 1.1em;
+}
+
 .author {
-    color: #ee4444;
+    color: #93BE4A;
 }
 
 .author a {
-    color: #ee4444;
+    color: #93BE4A;
 }
