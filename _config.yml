@@ -29,7 +29,7 @@ isso: ''
 disqus: ''
 
 permalink: /:year/:month/:title
-paginate: 3
+paginate: 4
 
 highlighter: rouge
 markdown: kramdown
