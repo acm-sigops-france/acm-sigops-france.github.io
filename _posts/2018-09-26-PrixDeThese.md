@@ -4,7 +4,7 @@ title: "Prix de thèse ASF / GDR RSD 2018"
 date: 2018-09-26 09:00:00 -0000
 comments: false
 ---
-Le prix de thèse ASF / GDR RSD en réseaux et systèmes distribués 2018 a été annoncé hier soir lors du dîner de gala de la conférence Compas 2018 à Toulouse.
+Le prix de thèse ASF / GDR RSD en réseaux et systèmes distribués 2018 a été annoncé lors du dîner de gala de la conférence Compas 2018 à Toulouse.
 
 Le prix de thèse ASF / GDR RSD 2018 est décerné à Boris Teabe, pour sa thèse "[Performance et qualité de service de l'ordonnanceur dans un environnement virtualisé](http://www.theses.fr/2017INPT0088)” réalisée au sein de Institut National Polytechnique de Toulouse, sous la direction de Daniel Hagimont et Alain Tchana.
 
