@@ -28,8 +28,8 @@ Le bureau de l’<i>association ACM SIGOPS France</i>i> (ASF):
 <ul>
   <li><i>Sonia</i> <b>Ben Mokhtar</b> (DR CNRS, LIRIS, Lyon)</li>
   <li><i>Anne-Cécile</i> <b>Orgerie</b> (CR CNRS, IRISA, Rennes)</li>
-  <li><i>Romain</i> <b>Rouvoy</b> (Professeur, CRIStAL, Lille)</li>
+  <li><i>Romain</i> <b>Rouvoy</b> (PR Univ. Lille, CRIStAL, Lille)</li>
   <li><i>Laurent</i> <b>Lefevre</b> (CR Inria, LIP, Lyon)</li>
 </ul>
-
+<br/>
 <iframe src="https://framaforms.org/inscription-atelier-permanents-asfcompas-1551771987" width="100%" height="800" border="0" ></iframe>
