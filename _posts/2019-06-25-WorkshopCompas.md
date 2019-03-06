@@ -23,7 +23,7 @@ Le formulaire d'inscription est disponible en bas de ce billet.
 Une demi journée pendant les ateliers Compas.
 
 # Organisateurs
-Le bureau de l’<i>association ACM SIGOPS France</i>i> (ASF):
+Le bureau de l’<i>association ACM SIGOPS France</i> (ASF):
 <ul>
   <li><i>Sonia</i> <b>Ben Mokhtar</b> (DR CNRS, LIRIS, Lyon)</li>
   <li><i>Anne-Cécile</i> <b>Orgerie</b> (CR CNRS, IRISA, Rennes)</li>
