@@ -4,7 +4,7 @@ title: "1er Atelier Permanents ASF@Compas"
 date: 2019-06-25 16:25:06 -0000
 comments: false
 ---
-## Mardi 25 juin à Anglet, avec ![Conférence Compas 2019](https://2019.compas-conference.fr/assets/images/logo.png)
+## Mardi 25 juin à Anglet, avec [![Conférence Compas 2019](https://2019.compas-conference.fr/assets/images/logo.png)](https://2019.compas-conference.fr/)
 
 # Objectif
 L’objectif de cet atelier est de permettre à des chercheurs jeunes et moins jeunes de se rencontrer, de présenter leurs thématiques de recherche en vue de construire des collaborations et/ou de contribuer à de futurs montages de projets collaboratifs. L’atelier permet une première prise de contact entre permanents ayant des thématiques de recherches proches et/ou complémentaires. Les participants pourront profiter de Compas pour poursuivre leurs échanges.
