@@ -4,7 +4,7 @@ title: "1er Atelier Permanents ASF@Compas"
 date: 2019-06-25 16:25:06 -0000
 comments: false
 ---
-## Mardi 25 juin à Anglet, avec [![Conférence Compas 2019](https://2019.compas-conference.fr/assets/images/logo.png)](https://2019.compas-conference.fr/)
+## Mardi 25 juin à Anglet, de 16h à 18h avec [![Conférence Compas 2019](https://2019.compas-conference.fr/assets/images/logo.png)](https://2019.compas-conference.fr/)
 
 # Objectif
 L’objectif de cet atelier est de permettre à des chercheurs jeunes et moins jeunes de se rencontrer, de présenter leurs thématiques de recherche en vue de construire des collaborations et/ou de contribuer à de futurs montages de projets collaboratifs. L’atelier permet une première prise de contact entre permanents ayant des thématiques de recherches proches et/ou complémentaires. Les participants pourront profiter de Compas pour poursuivre leurs échanges.
@@ -20,7 +20,9 @@ Pour participer à cet atelier, il suffit de s’inscrire à Compas et de rempli
 Le formulaire d'inscription est disponible en bas de ce billet.
 
 # Durée de l’atelier
-Une demi journée pendant les ateliers Compas.
+Une demi journée pendant les ateliers Compas, de 16h à 18h.
+
+Cet atelier sera suivi de l'assemblée générale de l'ASF de 18h à 18h30.
 
 # Organisateurs
 Le bureau de l’<i>association ACM SIGOPS France</i> (ASF):
