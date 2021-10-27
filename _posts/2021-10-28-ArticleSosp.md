@@ -14,7 +14,8 @@ Le succès du groupe de Gaël Thomas est d’autant plus remarquable que la conf
 La communauté informatique française toute entière doit féliciter les auteurs à la hauteur de l’exploit. 
 
 
-# J-NVM: Off-heap Persistent Objects in Java
+***J-NVM: Off-heap Persistent Objects in Java***
+
 Java est un langage communément utilisé par les acteurs majeurs de l'internet pour mettre en œuvre des bases de données larges échelles et des grands systèmes d'analyse de données (Cassandra, Infinispan, Spark, Hadoop, Kafka, Flink, HBase etc...). Comme l'un des principaux goulots d'étranglement de ces systèmes est la vitesse d'accès au support de stockage, il est essentiel qu'ils puissent utiliser efficacement les mémoires persistantes : des supports de stockages quasiment aussi rapide que les mémoires volatiles et de l'ordre de 1000 fois plus rapides que les disques SATA SSD. Malheureusement, utiliser efficacement les mémoires persistantes en Java est difficile. Java, comme de nombreux langages de haut niveau, gère automatiquement la libération de la mémoire avec un ramasse-miettes, et les algorithmes actuels sont totalement incapables de passer à l'échelle de ces mémoires avec leur 128GB à 1TB d'espace.
 
 Dans leur travail, Lefort et al. proposent de revisiter la façon de concevoir les objets Java à l'ère des mémoires persistantes. Ils proposent un principe de découplage qui consiste à séparer la structure de données d'un objet persistant de l'objet volatile qui le représente dans le langage Java. À l'aide de ce principe de découplage, ils peuvent accéder à la mémoire persistante quasi à vitesse native tout en évitant d'augmenter la pression sur le ramasse-miettes puisque les structures de données sont stockées en dehors de la mémoire Java.
